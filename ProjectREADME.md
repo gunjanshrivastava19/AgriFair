@@ -129,35 +129,6 @@ The following values are from the saved notebook outputs. If the notebook is rer
 
 These are the outputs saved in the uploaded notebook execution, not guaranteed results for every run.
 
-## Output screenshots
-
-Selected charts have been extracted from the executed notebook and are available in the [`screenshots/`](screenshots/) folder.
-
-Examples:
-
-### Commodity-wise price comparison
-![Commodity-wise price comparison](screenshots/01_commodity_price_comparison.png)
-
-### Demand estimate versus harvest quantity
-![Demand estimate versus harvest quantity](screenshots/02_demand_vs_harvest.png)
-
-### Transportation cost by mode
-![Transportation cost by mode](screenshots/04_transport_cost_by_mode.png)
-
-### Baseline versus optimized spoilage
-![Baseline versus optimized spoilage](screenshots/05_spoilage_comparison.png)
-
-### Correlation heatmap
-![Correlation heatmap](screenshots/06_correlation_heatmap.png)
-
-### Random Forest estimate comparison
-![Random Forest estimate comparison](screenshots/07_random_forest_prediction_comparison.png)
-
-### Final project dashboard visualizations
-![Final demand and harvest comparison](screenshots/14_final_demand_vs_harvest.png)
-
-![Final price comparison](screenshots/16_final_price_comparison.png)
-
 ## How to run the project
 
 1. Open [Google Colab](https://colab.research.google.com/).
